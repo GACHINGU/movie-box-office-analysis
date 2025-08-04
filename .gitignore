@@ -1,0 +1,57 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# SQLite database files
+*.db
+
+# If your database is stored in a subfolder
+notebook/im.db
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Project build artifacts
+build/
+dist/
+*.egg-info/
+
+# Log and output files
+*.log
+*.out
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Linting and type checking
+.mypy_cache/
+.pyre/
+.pytype/
+.dmypy.json
+
+# Rope, Cython, Cursor, etc.
+.ropeproject/
+cython_debug/
+.ruff_cache/
+.cursorignore
+.cursorindexingignore
+
+# mkdocs site build
+/site/
+
+# Marimo and other notebook stuff
+marimo/
+__marimo__/notebook/im.db
+notebook/im.db
+notebook/im.db
